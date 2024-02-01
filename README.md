@@ -10,7 +10,7 @@ This Android application monitors trading pairs on Binance and sends notificatio
 
 ## Installation
 1. Clone the repository:
-`git clone ](https://github.com/GRDimm/BinanceWatch.git`
+`git clone https://github.com/GRDimm/BinanceWatch.git`
 2. Open the project in Android Studio.
 3. Build and run the application.
 
