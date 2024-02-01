@@ -20,8 +20,7 @@ This Android application monitors trading pairs on Binance and sends notificatio
 - Keep the app running to receive real-time alerts.
 
 ## Configuration
-- `PAIRS_TO_MONITOR`: List of trading pairs to monitor.
-- `PRICE_CHANGE_THRESHOLD`: Percentage change that triggers a notification.
+- `CryptoConfig.java` file where all parameters can be changed.
 
 ## Dependencies
 - Binance API
